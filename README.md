@@ -55,6 +55,11 @@ git checkout -- .
 git remote -v
 ```
 
+#### Connect your local project to an empty GitHub repo
+```bash
+git remote add origin https://github.com/efg/uuu-uu.git
+```
+
 #### Clone repo from GitHub
 ```bash
 git clone https://github.com/abc/aaa-aa.git
