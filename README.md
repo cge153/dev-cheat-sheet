@@ -1,4 +1,6 @@
 # dev-cheat-sheet
+This information is intended for beginner or part-time developers who don't know the basic commands of the multiple tools and programming languages that they use by heart and sometimes need a little help. Goolge will of course also do the trick. :-)
+
 ## Table of Contents
 ---
 &nbsp;[Git](#git)</br>
@@ -47,7 +49,7 @@ git commit -m 'Initial commit'
 git checkout -- .
 ```
 
-### Remote Repo
+### Remote Repositories
 #### Check remote repo url
 ```bash
 git remote -v
