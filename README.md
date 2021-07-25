@@ -2,12 +2,10 @@
 This information is intended for beginner or part-time developers who don't know the basic commands of the multiple tools and programming languages that they use by heart and sometimes need a little help. Goolge will of course also do the trick. :-)
 
 ## Table of Contents
----
-&nbsp;[Git](#git)</br>
-&nbsp;[NPM](#npm)</br></br>
+- [Git](#git)
+- [NPM](#npm)
 
 ## Git
----
 ### Basics
 #### Customize Git
 ```bash
