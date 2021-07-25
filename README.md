@@ -59,7 +59,6 @@ git pull origin master
 ```
 
 ## NPM
----
 ### Basics
 ```bash
 # Initialize the folder as an npm project.
